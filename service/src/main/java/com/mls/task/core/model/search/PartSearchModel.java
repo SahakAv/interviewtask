@@ -87,7 +87,7 @@ public class PartSearchModel {
     }
 
     private Optional<Integer> toInteger(final String str) {
-        return str.equals("")  ? Optional.empty() : of(Integer.valueOf(str));
+        return str == null || str.equals("") ? Optional.empty() : of(Integer.valueOf(str));
     }
 
     @Override
