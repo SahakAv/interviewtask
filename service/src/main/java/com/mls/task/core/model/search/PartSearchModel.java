@@ -71,7 +71,7 @@ public class PartSearchModel {
     }
 
     public boolean isEmpty() {
-        return !(name.isPresent() || number.isPresent() || vendor.isPresent() || qty.isPresent()
+        return !(name.isPresent()  || number.isPresent() || vendor.isPresent() || qty.isPresent()
                 || shippedAfter.isPresent() || shippedBefore.isPresent() || receivedAfter.isPresent() || receivedBefore.isPresent());
     }
 
