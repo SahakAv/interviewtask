@@ -1,0 +1,11 @@
+com\mls\task\core\dao\PartDAO.class
+com\mls\task\core\model\entity\Part.class
+com\mls\task\implementation\dao\PartDAOImpl.class
+com\mls\task\core\model\response\PartResponseModel.class
+com\mls\task\configuration\DBConnectionProvider.class
+com\mls\task\core\model\search\PartSearchModel.class
+com\mls\task\core\model\PartProperties.class
+com\mls\task\implementation\converter\PartResponseConverter.class
+com\mls\task\core\PartService.class
+com\mls\task\implementation\PartServicesImpl.class
+com\mls\task\core\model\QueryConstants.class

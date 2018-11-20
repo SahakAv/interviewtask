@@ -1,0 +1,11 @@
+C:\Users\Avser\IdeaProjects\interviewtask\service\src\main\java\com\mls\task\core\PartService.java
+C:\Users\Avser\IdeaProjects\interviewtask\service\src\main\java\com\mls\task\implementation\PartServicesImpl.java
+C:\Users\Avser\IdeaProjects\interviewtask\service\src\main\java\com\mls\task\implementation\dao\PartDAOImpl.java
+C:\Users\Avser\IdeaProjects\interviewtask\service\src\main\java\com\mls\task\implementation\converter\PartResponseConverter.java
+C:\Users\Avser\IdeaProjects\interviewtask\service\src\main\java\com\mls\task\configuration\DBConnectionProvider.java
+C:\Users\Avser\IdeaProjects\interviewtask\service\src\main\java\com\mls\task\core\model\entity\Part.java
+C:\Users\Avser\IdeaProjects\interviewtask\service\src\main\java\com\mls\task\core\model\PartProperties.java
+C:\Users\Avser\IdeaProjects\interviewtask\service\src\main\java\com\mls\task\core\model\QueryConstants.java
+C:\Users\Avser\IdeaProjects\interviewtask\service\src\main\java\com\mls\task\core\model\response\PartResponseModel.java
+C:\Users\Avser\IdeaProjects\interviewtask\service\src\main\java\com\mls\task\core\dao\PartDAO.java
+C:\Users\Avser\IdeaProjects\interviewtask\service\src\main\java\com\mls\task\core\model\search\PartSearchModel.java

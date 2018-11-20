@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/db_managment/db_managment.iml" filepath="$PROJECT_DIR$/db_managment/db_managment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interview-task.iml" filepath="$PROJECT_DIR$/interview-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/presentation/presentation.iml" filepath="$PROJECT_DIR$/presentation/presentation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/service.iml" filepath="$PROJECT_DIR$/service/service.iml" />
+    </modules>
+  </component>
+</project>
